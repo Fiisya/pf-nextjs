@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://nyimpen.vercel.app/component/logoku.png" alt="Profile Picture" className="profile-pic" />
+          <img src="https://telegra.ph/file/c439589472e862af7671a.jpg" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">AlfiXD</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Aceh Besar, Aceh
