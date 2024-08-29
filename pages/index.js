@@ -25,7 +25,7 @@ export default function Home() {
           <img src="https://telegra.ph/file/c439589472e862af7671a.jpg" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">AlfiXD</h1>
           <p className="lokasi">
-            <i className="fas fa-globe-asia"></i> Aceh Besar, Aceh
+            <i className="fas fa-globe-asia"></i> Aceh, Indonesia
           </p>
           <p className="bio">”Learning.”</p>
         </header>
@@ -52,13 +52,13 @@ export default function Home() {
           <a href="https://github.com/Fiisya" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://wa.me/62895615063060?text=hi+fii" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://whatsapp.com/channel/0029VaGgcSa3bbV4dMm9Fe3B" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-whatsapp"></i>
           </a>
           <a href="https://instagram.com/alfisyahriaal" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-instagram"></i>
           </a>
-          <a href="https://whatsapp.com/channel/0029VaGgcSa3bbV4dMm9Fe3B" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://s.id/alfiisyl" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fas fa-arrow-up-right-from-square"></i>
           </a>
         </div>
