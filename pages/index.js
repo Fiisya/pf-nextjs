@@ -27,7 +27,7 @@ export default function Home() {
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Aceh, Indonesia
           </p>
-          <p className="bio">”Learning.”</p>
+          <p className="bio">”Just A Dreamer”</p>
         </header>
 
         <section className="spotify-section">
