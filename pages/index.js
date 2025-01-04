@@ -52,13 +52,13 @@ export default function Home() {
           <a href="https://github.com/Fiisya" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://whatsapp.com/channel/0029VaGgcSa3bbV4dMm9Fe3B" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://wa.me/62895615063060?text=Hi+Alfi" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-whatsapp"></i>
           </a>
           <a href="https://instagram.com/alfisyahriaal" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-instagram"></i>
           </a>
-          <a href="https://s.id/alfiisyl" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://alpixd.vercel.app" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fas fa-arrow-up-right-from-square"></i>
           </a>
         </div>
